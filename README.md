@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<img scr="https://img.shields.io/github/followers/Jun29785?style=social">
+![](https://img.shields.io/github/followers/Jun29785?style=social)
 <!--
 **Jun29785/Jun29785** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
