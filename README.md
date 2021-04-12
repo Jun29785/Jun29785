@@ -3,6 +3,7 @@
 ##### 
 ![Unity](https://s3.ap-northeast-2.amazonaws.com/grepp-cloudfront/programmers_imgs/learn/thumb-course-unity.jpg)
 ## 🧡Unity, I'm interested in GamePrograming and Server🧡
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 ![Python](https://media.vlpt.us/images/roro/post/74d03ddc-8c24-4db0-9368-8fdd98d4491f/tf_logo_social.png)
 ## 💙I learned Deep learning and Machine learning with Python tensorflow💙
 
