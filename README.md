@@ -21,6 +21,11 @@ ___
 
 ___
 
+<img src="https://media.vlpt.us/images/hongin/post/1cc8111a-cc3b-4a2a-9302-c6a8eb324924/img.jpg" height="282" width="600"></a>
+<h3 id="-i-learned-c-c-">💛I'm learning Node js💛</h3>
+<h3 id="-i-made-double-buffer-project-with-c-">💛I want to be a Game Server Developer!💛</h3>
+
+___
 |Country|Age|Programming languages|
 |:--:|:--:|:--:|
 |Korea|17|C, C++(learning), C#(Unity), Python(Deep learning, machine learning)|
