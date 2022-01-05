@@ -1,33 +1,21 @@
-![Hello!](https://thumbs.dreamstime.com/b/hello-word-cloud-different-languages-world-background-concept-94936148.jpg)
-# ✅Hello, My Name is ***Lee Joon*** ☜(ﾟヮﾟ☜)✅ 
+
+# ✅ Game Server Programmer ***Lee Joon***✅ 
+
+___
+<h3 id="-unity-i-m-interested-in-gameprograming-and-server-">🧡I&#39;m interested in Game Server Programming🧡</h3>
 
 ___
 
-<img src="https://s3.ap-northeast-2.amazonaws.com/grepp-cloudfront/programmers_imgs/learn/thumb-course-unity.jpg"  width="340" height="220"> 
-<h3 id="-unity-i-m-interested-in-gameprograming-and-server-">🧡Unity, I&#39;m interested in GamePrograming and Server🧡</h3>
+<h3 id="-i-learned-deep-learning-and-machine-learning-with-python-tensorflow-">💙I'm learning Unity with cs💙</h3>
 
 ___
 
-<img src="https://i.pinimg.com/originals/9b/41/fa/9b41fafad51b5ba82b3257b395be76cb.png" width="372" height="162">
-<img src="https://dfalbel.github.io/talks/2020-01-rstudio-conf/images/tf-logo.jpg" height="172" width="519"></a>
-<h3 id="-i-learned-deep-learning-and-machine-learning-with-python-tensorflow-">💙I learned Algorithm, Deep learning and Machine learning with Python tensorflow💙</h3>
-
-___
-
-<img src="https://ict-trainings.com/storage/app/public/course/banner_5d2ec9fb5445a.jpg" height="125" width="275"></a>
-<h3 id="-i-learned-c-c-">💜I learned C/C++💜</h3>
-<h3 id="-i-made-double-buffer-project-with-c-">💜I made Double Buffer Project with C💜</h3>
-<h3 id="-i-made-api-project-with-c-">💜I made API Project with C++💜</h3>
-
-___
-
-<img src="https://media.vlpt.us/images/hongin/post/1cc8111a-cc3b-4a2a-9302-c6a8eb324924/img.jpg" height="282" width="600"></a>
-<h3 id="-i-learned-c-c-">💛I'm learning Node js💛</h3>
+<h3 id="-i-learned-c-c-">💛I'm learning Go Language for Server Programming💛</h3>
 <h3 id="-i-made-double-buffer-project-with-c-">💛I want to be a Game Server Developer!💛</h3>
 
 ___
 |Country|Age|Programming languages|
 |:--:|:--:|:--:|
-|Korea|17|C, C++(learning), C#(Unity), Python(Deep learning, machine learning)|
+|Korea|18|C, C++(learning), C#(Unity), Python, Go|
 
 ___
