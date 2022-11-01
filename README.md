@@ -1,5 +1,5 @@
 
-# ✅ Game Client Programmer ***Lee Joon***✅ 
+# Game Client Programmer ***Lee Joon***
 
 ___
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jun29785)](https://github.com/Jun29785)
