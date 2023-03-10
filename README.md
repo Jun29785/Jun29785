@@ -1,5 +1,5 @@
 
-# Unity Client Programmer  | ***Lee Joon*** |
+# Unity Client Developer   **Lee Joon** 
 
 ___
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jun29785)](https://github.com/Jun29785)
@@ -14,6 +14,6 @@ ___
 ___
 |Country|Age|Programming languages|
 |:--:|:--:|:--:|
-|Korea|18|C, C++(learning), C#(Unity), Python|
+|Korea|19|C, C#(Unity), Python|
 
 ___
