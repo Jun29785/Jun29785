@@ -5,5 +5,5 @@ ___
 <p>- <strong>Unity2D/3D</strong>  ★★★★☆</p>
 <p>- <strong>C#</strong>  ★★★☆☆</p>
 
-# About Me
+## About Me
 <a href="Https://bit.ly/LeeJoon" target="blank">Notion</a>
